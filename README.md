@@ -1,0 +1,2 @@
+# iMageRecognitionXSikulix
+# AutomateTest_image
